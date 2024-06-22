@@ -9,6 +9,36 @@
       "id": 0,
       "brand": "Ford",
       "price": 15000
+    },    {
+      "id": "2",
+      "brand": "Subaru",
+      "price": 23000
+    },
+    {
+      "id": 0,
+      "brand": "Hyundai",
+      "price": 15000
+    },
+    {
+      "id": "2",
+      "brand": "Toyota",
+      "price": 23000
+    },
+    {
+      "id": 0,
+      "brand": "Fiat",
+      "price": 15000
+    },
+    {
+      "id": "2",
+      "brand": "Kia",
+      "price": 23000
+    },
+    {
+      "id": 0,
+      "brand": "Chevrolet",
+      "price": 15000
     }
+
   ]
 }
